@@ -13,8 +13,8 @@ gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
-get 'omniauth'
-get 'omniauth-facebook'
+gem 'omniauth'
+gem 'omniauth-facebook'
 
 gem 'thin'
 
